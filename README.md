@@ -2,8 +2,7 @@
 
 ## Projeto Pokedex utilizando API - (pokeApi)
 
-
-![pokedex_project](https://iili.io/2EJ2Vat.gif)
+<img src="https://github.com/Vilander/js-developer-pokedex/blob/main/9e18ac2b43874e7c878fc31150a264b8.gif" alt="9e18ac2b43874e7c878fc31150a264b8" border="0">
 
 ## **TECNOLOGIAS UTILIZADAS:**
 
