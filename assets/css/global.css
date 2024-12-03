@@ -4,14 +4,38 @@
 }
 
 body {
-    background-color: #f6f8fc;
+    background-image: url(/assets/css/image/pokeball-background.webp);
+    background-attachment: scroll;
+    background-size: cover;
+}
+
+.titleContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+}
+
+h1{
+    color: #ffe603;
+    text-shadow: 0 1px 4px black;
+    font-family: 'Press Start 2p', sans-serif;
+    letter-spacing: 10px;
+    font-size: 2rem;
+    margin-top: 5px;
+    background-color: white;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);
+    padding: 10px 20px;
+    width: fit-content;
+    border-radius: 1rem;
 }
 
 .content {
     width: 100vw;
     height: 100vh;
     padding: 1rem;
-    background-color: #fff;
+    background-image: url(/assets/css/image/pokeball-background.webp);
+    /*background-color: #fff;*/
 }
 
 @media screen and (min-width: 992px) {
